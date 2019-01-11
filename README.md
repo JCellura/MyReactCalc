@@ -1,3 +1,12 @@
+**I have created a React Calculator to model the basic calcualtor provided on iOS devices**
+
+**I must mention that I used the foundation of the calculator, including all of the styling and the basic layout from https://github.com/ahfarmer/calculator** 
+
+I wanted to figure out a way to utilize my own techniques of creating the logic in order for the calculator to function correctly. If you do take some time to review my logic, you will see find that it can definitly be improved trough shortcuts and other means but it does work! 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
